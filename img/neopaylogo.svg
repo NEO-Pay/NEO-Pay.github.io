@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="250px" height="116px" viewBox="0 0 250 116" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.2.2 (9983) - http://www.bohemiancoding.com/sketch -->
+    <title>Slice 1</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="-130.454799%" y1="112.969494%" x2="432.548607%" y2="-54.1125612%" id="linearGradient-1">
+            <stop stop-color="#BEEB00" offset="0%"></stop>
+            <stop stop-color="#58BF00" offset="22.78%"></stop>
+            <stop stop-color="#58BF00" offset="41.73%"></stop>
+            <stop stop-color="#29B800" offset="60.53%"></stop>
+            <stop stop-color="#00AE1D" offset="77.74%"></stop>
+            <stop stop-color="#00A62C" offset="99.43%"></stop>
+        </linearGradient>
+        <linearGradient x1="-19.0526984%" y1="66.1711082%" x2="558.248889%" y2="-68.9493404%" id="linearGradient-2">
+            <stop stop-color="#BEEB00" offset="0%"></stop>
+            <stop stop-color="#58BF00" offset="22.78%"></stop>
+            <stop stop-color="#58BF00" offset="41.73%"></stop>
+            <stop stop-color="#29B800" offset="60.53%"></stop>
+            <stop stop-color="#00AE1D" offset="77.74%"></stop>
+            <stop stop-color="#00A62C" offset="99.43%"></stop>
+        </linearGradient>
+        <linearGradient x1="-24.3143603%" y1="153.397419%" x2="213.087728%" y2="-176.993871%" id="linearGradient-3">
+            <stop stop-color="#BEEB00" offset="0%"></stop>
+            <stop stop-color="#58BF00" offset="22.78%"></stop>
+            <stop stop-color="#58BF00" offset="41.73%"></stop>
+            <stop stop-color="#29B800" offset="60.53%"></stop>
+            <stop stop-color="#00AE1D" offset="77.74%"></stop>
+            <stop stop-color="#00A62C" offset="99.43%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="neo_logo" sketch:type="MSLayerGroup" transform="translate(0.000000, 11.000000)">
+            <path d="M78.8,16.5 L78.8,77.8 L46.5,62.6 L46.5,28.1 L78.8,16.5 Z" id="Shape" fill="url(#linearGradient-1)" sketch:type="MSShapeGroup"></path>
+            <path d="M0.4,78.9 L31.9,93.7 L31.9,32.8 L0.4,17.9 L0.4,78.9 Z" id="Shape" fill="url(#linearGradient-2)" sketch:type="MSShapeGroup"></path>
+            <path d="M77.5,15.3 L78,15.1 L78.3,15 L47.3,0.4 L47,0.5 L46.2,0.8 L45.8,0.9 L1.7,16.8 L32.7,31.4 L45.8,26.7 L46.5,26.4 L77.5,15.3 Z" id="Shape" fill="url(#linearGradient-3)" sketch:type="MSShapeGroup"></path>
+        </g>
+        <text id="NEO-Pay" sketch:type="MSTextLayer" font-family="PingFang SC" font-size="36" font-weight="normal" fill="#58BF00">
+            <tspan x="95" y="69">NEO Pay</tspan>
+        </text>
+    </g>
+</svg>
